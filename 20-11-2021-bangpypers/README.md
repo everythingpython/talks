@@ -21,4 +21,3 @@ Average human.
 
 Official documentation : https://docs.python.org/3/library/functools.html
 
-A full article on this will be up on - https://everythingpython.substack.com - by Monday, the 22nd Nov
